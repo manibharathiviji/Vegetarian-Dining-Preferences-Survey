@@ -8,7 +8,7 @@ This project explores **vegetarian dining preferences** among **Sriperumbudur re
 ## 📂 Dataset & Reports  
 **Confidentiality Notice:** The dataset contains sensitive survey responses and **cannot be shared publicly**. However, cleaned dataset insights and methodology are provided. You can access related reports below:
 
-📩 **[Survey Responses Dataset](https://docs.google.com/spreadsheets/d/1Elug65SzRr8pDECHJCDl6DNryvQFbTBr/edit?usp=sharing&ouid=100802422128863258108&rtpof=true&sd=true)**
+📩 **[Download Synthetic Dataset](https://github.com/yourusername/internship-response-analysis/blob/main/Synthetic_Survey_Data.csv)**
 📊 **[Power BI Dashboard File](https://drive.google.com/file/d/1RwSY7UWnWcDzQyJ4JI9q4OGxAhrYO8hM/view?usp=sharing)**
 📑 **[Survey Report (PPT)](https://docs.google.com/presentation/d/1zKjU5LGQWBTIGlxu3s7LOZrL6FtOntxm/edit?usp=sharing&ouid=100802422128863258108&rtpof=true&sd=true)**
 
